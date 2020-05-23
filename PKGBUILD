@@ -1,7 +1,7 @@
 # Script generated with create_pkgbuild.py
 # For more information: https://github.com/ros-melodic-arch/ros-build-tools-py3
 pkgdesc="ROS - The trac_ik_python package contains a python wrapper using SWIG for trac_ik_lib."
-url='http://www.ros.org/'
+url='http://wiki.ros.org/trac_ik_python'
 
 pkgname='ros-melodic-trac-ik-python'
 pkgver='1.5.1'
